@@ -2,7 +2,11 @@
 name = "dlfcn"
 version = "0.1.0"
 authors = ["Mariell \"Proximyst\" Hoversholm <proximyst@proximyst.com>"]
+description = "DLFCN wrapper for Rust using libc."
 repository = "https://github.com/Proximyst/dlfcn"
+license = "CC0 Licence"
+license-file = "LICENCE"
+documentation = "https://docs.rs/dlfcn"
 
 [dependencies.libc]
 version = "0.2"
