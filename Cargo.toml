@@ -2,6 +2,7 @@
 name = "dlfcn"
 version = "0.1.0"
 authors = ["Mariell \"Proximyst\" Hoversholm <proximyst@proximyst.com>"]
+repository = "https://github.com/Proximyst/dlfcn"
 
 [dependencies.libc]
 version = "0.2"
