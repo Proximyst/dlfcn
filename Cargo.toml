@@ -5,7 +5,7 @@ authors = ["Mariell \"Proximyst\" Hoversholm <proximyst@proximyst.com>"]
 description = "DLFCN wrapper for Rust using libc."
 keywords = ["dynlib", "dynamic", "load", "library", "dlsym"]
 repository = "https://github.com/Proximyst/dlfcn"
-license = "CC0"
+license = "Creative Commons Zero v1.0 Universal"
 license-file = "LICENCE"
 documentation = "https://docs.rs/dlfcn"
 
