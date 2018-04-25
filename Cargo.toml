@@ -1,0 +1,7 @@
+[package]
+name = "dlfcn"
+version = "0.1.0"
+authors = ["Mariell \"Proximyst\" Hoversholm <proximyst@proximyst.com>"]
+
+[dependencies.libc]
+version = "0.2"
