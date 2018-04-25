@@ -3,8 +3,9 @@ name = "dlfcn"
 version = "0.1.0"
 authors = ["Mariell \"Proximyst\" Hoversholm <proximyst@proximyst.com>"]
 description = "DLFCN wrapper for Rust using libc."
+keywords = ["dynlib", "dynamic", "load", "library", "dlsym"]
 repository = "https://github.com/Proximyst/dlfcn"
-license = "CC0 Licence"
+license = "CC0"
 license-file = "LICENCE"
 documentation = "https://docs.rs/dlfcn"
 
